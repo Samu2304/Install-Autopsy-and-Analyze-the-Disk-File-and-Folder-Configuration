@@ -51,8 +51,6 @@ Export or recover files if required for the investigation.
 8.Export selected files for further examination.
 
 ## OUTPUT:
-<img width="693" height="813" alt="image" src="https://github.com/user-attachments/assets/248f8761-530c-4917-bec8-3a3980fd2435" />
-
 <img width="692" height="812" alt="image" src="https://github.com/user-attachments/assets/f5531884-7c70-43f0-a6da-7b612c970bd5" />
 
 <img width="692" height="801" alt="image" src="https://github.com/user-attachments/assets/406548a7-902d-49a4-aa56-393079e2aba1" />
